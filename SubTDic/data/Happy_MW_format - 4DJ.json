@@ -1,0 +1,363 @@
+[
+  {
+    "meta": {
+      "id": "happy",
+      "uuid": "cc6fd301-d1e6-4142-aef4-a56b5abf9354",
+      "src": "learners",
+      "section": "alpha",
+      "target": {
+        "tuuid": "bea1b580-e5aa-49c2-8823-40174d5fd750",
+        "tsrc": "collegiate"
+      },
+      "highlight": "yes",
+      "stems": [
+        "happy",
+        "happier",
+        "happiest",
+        "(as) happy as a clam",
+        "as happy as a clam",
+        "happy as a clam",
+        "happy medium",
+        "happy returns",
+        "happy ending",
+        "happy for"
+      ],
+      "app-shortdef": {
+        "hw": "happy",
+        "fl": "adjective",
+        "def": [
+          "{bc} feeling pleasure and enjoyment because of your life, situation, etc.",
+          "{bc} showing or causing feelings of pleasure and enjoyment",
+          "{bc} pleased or glad about a particular situation, event, etc."
+        ]
+      },
+      "offensive": false
+    },
+    "hwi": {
+      "hw": "hap*py",
+      "prs": [
+        {
+          "ipa": "ˈhæpi",
+          "sound": {
+            "audio": "happy001"
+          }
+        }
+      ]
+    },
+    "fl": "adjective",
+    "ins": [
+      {
+        "if": "hap*pi*er"
+      },
+      {
+        "ifc": "-est",
+        "if": "hap*pi*est"
+      }
+    ],
+    "def": [
+      {
+        "sseq": [
+          [
+            [
+              "sense",
+              {
+                "sn": "1 a",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}feeling pleasure and enjoyment because of your life, situation, etc. "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "She was a very {it}happy{/it} child."
+                      },
+                      {
+                        "t": "I can see that you're not {it}happy{/it} in your work. [=I can see that you do not enjoy your work]"
+                      },
+                      {
+                        "t": "You don't look {it}happy{/it}. What's the problem?"
+                      },
+                      {
+                        "t": "We're all one big, {it}happy{/it} family here."
+                      },
+                      {
+                        "t": "I'd do anything to make/keep her {it}happy{/it}."
+                      },
+                      {
+                        "t": "She's {it}happy{/it} playing with her toys. = She's {it}happy{/it} when she plays with her toys."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "b",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}showing or causing feelings of pleasure and enjoyment "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "I could hear the children's {it}happy{/it} laughter in the other room."
+                      },
+                      {
+                        "t": "She had a very {it}happy{/it} childhood."
+                      },
+                      {
+                        "t": "They've had a very {it}happy{/it} marriage."
+                      },
+                      {
+                        "t": "remembering {it}happier{/it} times"
+                      },
+                      {
+                        "t": "a {it}happy{/it} event/occasion"
+                      },
+                      {
+                        "t": "I was glad the movie had a {phrase}happy ending{/phrase}."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "c",
+                "lbs": [
+                  "not used before a noun"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}pleased or glad about a particular situation, event, etc. "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "We are so {it}happy{/it} that you were able to come to the party."
+                      },
+                      {
+                        "t": "They are not at all {it}happy{/it} about the rise in taxes."
+                      },
+                      {
+                        "t": "He's not {it}happy{/it} with the way the project is going."
+                      },
+                      {
+                        "t": "It's great that he won the scholarship. I'm very {phrase}happy for{/phrase} him. [=I am glad something good happened to him]"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ],
+            [
+              "sense",
+              {
+                "sn": "d",
+                "dt": [
+                  [
+                    "text",
+                    "{bc}very willing to do something"
+                  ],
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "usually followed by {it}to + verb{/it} "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "I would be {it}happy to assist{/it} you."
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "2",
+                "dt": [
+                  [
+                    "uns",
+                    [
+                      [
+                        [
+                          "text",
+                          "used as part of a greeting or wish for someone on a special holiday or occasion "
+                        ],
+                        [
+                          "vis",
+                          [
+                            {
+                              "t": "{it}Happy{/it} birthday, Mom!"
+                            },
+                            {
+                              "t": "{it}Happy{/it} Holidays!"
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "3",
+                "lbs": [
+                  "always used before a noun"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}lucky or fortunate "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "We were brought together by a series of {it}happy{/it} accidents."
+                      },
+                      {
+                        "t": "a {it}happy{/it} coincidence"
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ],
+          [
+            [
+              "sense",
+              {
+                "sn": "4",
+                "lbs": [
+                  "always used before a noun"
+                ],
+                "dt": [
+                  [
+                    "text",
+                    "{bc}fitting or suitable "
+                  ],
+                  [
+                    "vis",
+                    [
+                      {
+                        "t": "a {it}happy{/it} choice of words"
+                      },
+                      {
+                        "t": "He was a {it}happy{/it} choice for chairman of the committee."
+                      }
+                    ]
+                  ]
+                ]
+              }
+            ]
+          ]
+        ]
+      }
+    ],
+    "dros": [
+      {
+        "drp": "(as) happy as a clam",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{dx}see {dxt|clam:1||}{/dx}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "drp": "happy medium",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{dx}see {dxt|medium:1||}{/dx}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      {
+        "drp": "happy returns",
+        "def": [
+          {
+            "sseq": [
+              [
+                [
+                  "sense",
+                  {
+                    "dt": [
+                      [
+                        "text",
+                        "{dx}see {dxt|return:2||}{/dx}"
+                      ]
+                    ]
+                  }
+                ]
+              ]
+            ]
+          }
+        ]
+      }
+    ],
+    "dxnls": [
+      "see also {dxt|trigger-happy||}"
+    ],
+    "shortdef": [
+      "feeling pleasure and enjoyment because of your life, situation, etc.",
+      "showing or causing feelings of pleasure and enjoyment",
+      "pleased or glad about a particular situation, event, etc."
+    ]
+  }
+]
